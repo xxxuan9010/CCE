@@ -1,0 +1,28 @@
+__pycache__/
+*.py[cod]
+*.log
+*.out
+*.err
+job.*
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.venv/
+venv/
+.env
+*.zip
+
+# Raw or locally prepared datasets are obtained from their original repositories.
+data/*
+!data/README.md
+**/Car Insurance Data.csv
+**/UCI_Credit_Card.csv
+**/caravan-insurance-challenge.csv
+**/creditcard.csv
+**/Breast_Cancer.csv
+**/diabetes_prediction_dataset.csv
+**/Malware Analysis Datasets API Call Sequences.csv
+**/Microcalcification Classification.csv
+**/Differentiated Thyroid Cancer Recurrence.csv
+**/TUANDROMD.csv
