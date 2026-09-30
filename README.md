@@ -95,10 +95,6 @@ By default, scripts write outputs to `./result`. The archived result files inclu
 - `results_summary.csv`: means and standard deviations across repeated runs;
 - financial-dataset ablation and CAR-FDH grid results where applicable.
 
-## Scope of the release
-
-The upload excludes cluster-specific Slurm shell scripts, scheduler logs, Python bytecode caches, the source ZIP archive, and an additional malware-executable experiment that is not part of the ten datasets reported in the manuscript.
-
 ## Citation
 
 The manuscript citation and archival DOI will be added after publication or repository archiving.
